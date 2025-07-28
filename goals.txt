@@ -1,0 +1,1 @@
+"My Git goals:\n- Learn Git\n- Practice daily\n- Master GitHub workflows"
